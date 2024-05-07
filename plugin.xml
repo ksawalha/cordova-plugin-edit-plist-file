@@ -49,6 +49,10 @@
         <config-file target="*-Info.plist" parent="NSPhotoLibraryUsageDescription">
             <string>Enable this to be able to upload media.</string>
         </config-file>
+
+        <config-file target="*-Info.plist" parent="NSCameraUsageDescription">
+            <string>Enable this to be able to take photos.</string>
+        </config-file>
         
         <!-- Adding NSPrivacyAccessedAPITypes array with approved reasons for APIs -->
         <config-file target="*-Info.plist" parent="NSPrivacyAccessedAPITypes">
