@@ -53,6 +53,10 @@
         <config-file target="*-Info.plist" parent="NSCameraUsageDescription">
             <string>Enable this to be able to take photos.</string>
         </config-file>
+
+        <config-file target="*-Info.plist" parent="OneSignalAppId">
+            <string>078a978e-d73f-4d02-8ca1-f8c60a2129a4</string>
+        </config-file>
         
         <!-- Adding NSPrivacyAccessedAPITypes array with approved reasons for APIs -->
         <config-file target="*-Info.plist" parent="NSPrivacyAccessedAPITypes">
