@@ -79,7 +79,7 @@
 				<dict>
 					<key>CFBundleURLSchemes</key>
 					<array>
-						<string>arabicschool</string>
+						<string>com.karamsawalha.arabicschool</string>
 					</array>
 				</dict>
 			</array>
